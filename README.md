@@ -1,6 +1,6 @@
 # **SatSet App**
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset2.png" width=30% height=30%> 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset.png" width=100% height=100%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset2.png" width=30% height=30%> 
 
 
 ```
@@ -96,9 +96,12 @@ Program di atas adalah `MenuActivity` yang bertindak sebagai pengontrol untuk la
 2. **activity_menu.xml**
 
     disini saya tidak menampilkan kode programnya karna panjang, saya akan menampilkan design dan component apa saja yang digunakan.
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component1.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/design.png" width=70% height=70% align-item=right> 
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component2.png" width=30% height=30%>  
+    <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component1.png" width=30% height=30%> 
+
+    <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component2.png" width=30% height=30%>  
+
+    <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/design.png" width=70% height=70%> 
 
 Sumber icon -->
 [www.flaticon.com](https://www.flaticon.com/)
