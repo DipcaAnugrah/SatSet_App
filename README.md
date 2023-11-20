@@ -1,6 +1,7 @@
 # **SatSet App**
-**
-![img](img/satset.png) ![images](img/satset2.png)
+
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset2.png" width=30% height=30%> 
+
 
 ```
 Nama    : Dipca Anugrah
@@ -91,9 +92,8 @@ Program di atas adalah `MenuActivity` yang bertindak sebagai pengontrol untuk la
 2. **activity_menu.xml**
 
     disini saya tidak menampilkan kode programnya karna panjang, saya akan menampilkan design dan component apa saja yang digunakan.
-![img](img/component1.png) 
-![img](img/component2.png)
-![img](img/design.png)
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component1.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component2.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/design.png" width=30% height=30%> 
+
 Sumber icon -->
 [www.flaticon.com](https://www.flaticon.com/)
 
@@ -131,4 +131,5 @@ Program di atas adalah `SplashActivity`, yang berfungsi sebagai tampilan pengant
 ![img](img/splash_screen.gif)
 
 ## **Demo Aplikasi**
-![img](img/video-satset.gif)
+
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/video-satset.gif" width=30% height=30%>
