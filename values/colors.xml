@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#03A9F4</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPressed">#6379D0</color>
+    <color name="colorToggle">#B5B4B1</color>
+    <color name="colorNumber">#69BE28</color>
+    <color name="colorFibonacciPinkDark">#FF4081</color> <!-- Biru -->
+    <color name="colorFibonacciGreenLight">#34AA6D</color><!-- Hijau -->
+    <color name="colorButton_limit">#6454a4</color>
+    <color name="colorBackground">#F0B6F5</color>
+</resources>
