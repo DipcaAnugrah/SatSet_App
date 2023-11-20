@@ -12,8 +12,10 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 ```
 # **Daftar Isi**
 **[Tugas](#tugas)**
+
 **[Penjelasan Program](#penjelasan-program)**
-**[Demo Aplikasi](#demo-aplikasi)
+
+**[Demo Aplikasi](#demo-aplikasi)**
 
 ## **Tugas**
 Buatkanlah :
@@ -94,9 +96,9 @@ Program di atas adalah `MenuActivity` yang bertindak sebagai pengontrol untuk la
 2. **activity_menu.xml**
 
     disini saya tidak menampilkan kode programnya karna panjang, saya akan menampilkan design dan component apa saja yang digunakan.
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component1.png" width=30% height=30%> 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component1.png" width=30% height=30%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/design.png" width=70% height=70% align-item=right> 
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component2.png" width=30% height=30%>  <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/design.png" width=70% height=70%> 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/component2.png" width=30% height=30%>  
 
 Sumber icon -->
 [www.flaticon.com](https://www.flaticon.com/)
@@ -137,3 +139,7 @@ Program di atas adalah `SplashActivity`, yang berfungsi sebagai tampilan pengant
 ## **Demo Aplikasi**
 
 <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/video-satset.gif" width=30% height=30%>
+
+<hr>
+
+**[Back--->](#satset-app)**
