@@ -1,6 +1,6 @@
 # **SatSet App**
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset.png" width=10% height=10%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset2.png" width=30% height=30%> 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset.png" width=15% height=15%> <img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset2.png" width=30% height=30%> 
 
 
 ```
