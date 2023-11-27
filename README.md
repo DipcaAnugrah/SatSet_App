@@ -119,7 +119,7 @@ Program di atas adalah `MenuActivity` yang bertindak sebagai pengontrol untuk la
 Sumber icon -->
 [www.flaticon.com](https://www.flaticon.com/)
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/menu.png" width=70% height=70%> 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/menu.png" width=40% height=40%> 
 
 3. **SplashActivity.java**
 Program di atas adalah `SplashActivity`, yang berfungsi sebagai tampilan pengantar (splash screen) untuk aplikasi. Di bawah ini adalah penjelasan untuk setiap bagian program:
