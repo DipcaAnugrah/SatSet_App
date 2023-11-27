@@ -11,13 +11,15 @@ Matkul  : Pemrograman Mobile 1
 Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 ```
 # **Daftar Isi**
-**[Tugas](#tugas)**
+**[Tugas 1](#tugas-1)**
+
+**[Tugas 2](#tugas-2)**
 
 **[Penjelasan Program](#penjelasan-program)**
 
 **[Demo Aplikasi](#demo-aplikasi)**
 
-## **Tugas**
+## **Tugas 1**
 Buatkanlah :
 
 1. Launcher Splash logo masing-masing Individu 
@@ -37,6 +39,17 @@ Buatkanlah :
     e. Project Set Alarm
 
 Untuk tampilan Layout Bebas, terima kasih.
+
+## **Tugas 2**
+Buatlah tampilan menu Versi 02 dari project-project yang sudah dibuat sebelumnya 
+
+dengan tambahan memanggil method Maps
+
+dengan tampilan sebagai berikut :
+![img](img/tugas.PNG)
+ 
+
+
 
 ## **Penjelasan Program**
 Membuat Menu untuk menampilkan semua project, disini saya terdapat 6 project. Berikut adalah kode program pada java dan layout xml.
@@ -106,6 +119,8 @@ Program di atas adalah `MenuActivity` yang bertindak sebagai pengontrol untuk la
 Sumber icon -->
 [www.flaticon.com](https://www.flaticon.com/)
 
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/menu.png" width=70% height=70%> 
+
 3. **SplashActivity.java**
 Program di atas adalah `SplashActivity`, yang berfungsi sebagai tampilan pengantar (splash screen) untuk aplikasi. Di bawah ini adalah penjelasan untuk setiap bagian program:
 
@@ -141,7 +156,7 @@ Program di atas adalah `SplashActivity`, yang berfungsi sebagai tampilan pengant
 
 ## **Demo Aplikasi**
 
-<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/video-satset.gif" width=30% height=30%>
+<img src="https://github.com/dipca0895/SatSet_App/blob/main/img/satset_demo.gif" width=30% height=30%>
 
 <hr>
 
