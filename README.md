@@ -23,7 +23,11 @@ Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 - **[Penjelasan & Hasil Program Tugas 3](#penjelasan--hasil-program-tugas-3)**
 
-- **[Demo Aplikasi](#demo-aplikasi)**
+- **[Demo Tugas 1](#demo-program-tugas-1)**
+
+- **[Demo Tugas 2](#demo-program-tugas-2)**
+
+- **[Demo Tugas 3](#demo-program-tugas-3)**
 
 ## **Tugas 1**
 Buatkanlah :
@@ -659,8 +663,10 @@ Sumber icon -->
         Program ini menciptakan antarmuka dengan navigasi lapisan bawah dan samping, yang memungkinkan pengguna memilih fragment melalui bottom navigation atau navigation drawer. Program juga menggunakan toolbar untuk menyediakan akses ke drawer navigation.
 
 ## **Demo Program Tugas 1**
+https://github.com/dipca0895/SatSet_App/assets/115719283/d97e390b-5c19-4e77-9f9d-92ca369432f3
 
 ## **Demo Program Tugas 2**
+https://github.com/dipca0895/SatSet_App/assets/115719283/45029dad-393c-4b5d-99d8-6548321118f7
 
 ## **Demo Program Tugas 3**
 
