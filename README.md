@@ -666,7 +666,7 @@ Sumber icon -->
 https://github.com/dipca0895/SatSet_App/assets/115719283/d97e390b-5c19-4e77-9f9d-92ca369432f3
 
 ## **Demo Program Tugas 2**
-https://github.com/dipca0895/SatSet_App/assets/115719283/624618f3-5930-420d-a87d-6ff5283d1078
+https://github.com/dipca0895/SatSet_App/assets/115719283/2b1387fe-8941-46a4-93aa-7e26af492d57
 
 
 ## **Demo Program Tugas 3**
