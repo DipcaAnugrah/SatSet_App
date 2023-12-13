@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".AlarmActivity">
+    tools:context="androidx.constraintlayout.widget.Alarm.AlarmActivity">
 
     <!--Added Time picker just to pick the alarm time-->
     <!--gravity is aligned to center-->
