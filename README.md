@@ -669,8 +669,10 @@ https://github.com/dipca0895/SatSet_App/assets/115719283/d97e390b-5c19-4e77-9f9d
 https://github.com/dipca0895/SatSet_App/assets/115719283/45029dad-393c-4b5d-99d8-6548321118f7
 
 ## **Demo Program Tugas 3**
+https://github.com/dipca0895/SatSet_App/assets/115719283/338b2fdd-a78f-4e59-a8bf-7fa808c6efb7
 
 **Menu Versi 03**
+https://github.com/dipca0895/SatSet_App/assets/115719283/8be0016c-c4e5-48c4-86d2-079ca9f2c040
 
 
 
